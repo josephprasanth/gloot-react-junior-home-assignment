@@ -23,11 +23,11 @@ class App extends React.Component {
     this.getGames();
   };
 
-  editGame = (id, name) => {
+  editGame = () => {
     // TODO
   };
 
-  addGame = name => {
+  addGame = () => {
     // TODO
   };
 
