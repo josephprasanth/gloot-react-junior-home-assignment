@@ -15,7 +15,7 @@ All commands should be run from this projects root directory.
 3. Open another terminal window and run `npm start` to start the react web application.
 4. Visit `localhost:4444` in your browser.
 
-The web application will update automatically when the source files changes. The backend server is running on port `3000`.
+The web application and the backend server will update automatically when the source files changes. The backend server is running on port `3000`. The server data (i.e. the list of games) will be restored on a server restart.
 
 ##  Task
 A promising young developer at g-loot started to write a game library in react, but before finishing the project, the developer suffered a flamingo bite to their pinky finger and may never code again. It's your job to complete the the application.
