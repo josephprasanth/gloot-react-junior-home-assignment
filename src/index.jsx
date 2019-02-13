@@ -45,7 +45,7 @@ class App extends React.Component {
               <button onClick={() => this.deleteGame(game.id)}>delete</button>
             </div>
           ))}
-          <input /><button>add new game</button>
+          <input placeholder="game name" /><button>add new game</button>
       </div>
     );
   }
