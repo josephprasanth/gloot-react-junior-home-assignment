@@ -30,7 +30,7 @@ Simply put, just start the application and make all the buttons work! The first 
 
 And lastly, since the page currently looks like a potato, make it sexy using css!
 
-You may solve this task in any way you wish. You may edit, add, move or remove any file in the project, and install any new npm-packages should you feel the need to. If you want to add any extra functionality to show off, you may do so as well! For styling you can either use a library or do everything yourself.
+You may solve this task in any way you wish. You may edit, add, move or remove any file or code in the project, and install any new npm-packages should you feel the need to. If you want to add any extra functionality to show off, you may do so as well! For styling you can either use a library or do everything yourself.
 
 ## FAQ
 #### I don't know react, help!
