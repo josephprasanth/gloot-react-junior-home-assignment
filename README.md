@@ -37,3 +37,5 @@ You may solve this task in any way you wish. You may edit, add, move or remove a
 This task can be solved with basic react knowledge. Check out the [react docs](https://reactjs.org/docs/getting-started.html). It's good for your career!
 #### I found a error in this template!
 Well done you found a bug! Submit a pull request fixing it 😎
+#### How do I submit my finished code?
+Preferably, you upload the finished game library to your github account and send us the link. If this is not an option for you for whatever reason, you could send a zip file (do not include the files/folders excluded in the `.gitignore` file).
