@@ -1,7 +1,7 @@
 
 #  Gloot react junior home assignment
 
-This project contains a react web application and a minimal node.js REST-backend.
+This project contains an unfinished react web application and a minimal node.js REST-backend.
 
 ##  Prerequisites:
 You need the following stuff installed on your computer to complete this assignment:
