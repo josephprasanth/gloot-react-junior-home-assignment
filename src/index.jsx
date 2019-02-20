@@ -23,14 +23,6 @@ class App extends React.Component {
     this.getGames();
   };
 
-  editGame = () => {
-    // TODO
-  };
-
-  addGame = () => {
-    // TODO
-  };
-
   render() {
     const { games } = this.state;
     return (
