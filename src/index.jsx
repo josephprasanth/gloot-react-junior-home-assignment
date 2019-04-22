@@ -33,8 +33,9 @@ class App extends React.Component {
           games.map(game => (
             <div key={game.id}>
               <label>{game.name}</label>
-              <button>edit</button>
-              <button onClick={() => this.deleteGame(game.id)}>delete</button>
+              <button onClick={() => this.editGame(game.id)}>Edit</button>
+              <button onClick={() => this.deleteGame(game.id)}>Delete</button>
+              <button>test Button</button>
             </div>
           ))}
           <input placeholder="game name" /><button>add new game</button>
